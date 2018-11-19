@@ -9,7 +9,7 @@ fa: "info"
 |                   |   |                                                                      |
 |-------------------|---|----------------------------------------------------------------------|
 | Systems:          |   | [NAME]                                                               |
+| Affected:         |   | Customers of [NAME]                                                  |
 | Start:            |   | [JJJJ-MM-TT] at [HH:MM am|pm] Europe/Berlin                          | 
 | End:              |   | Planned for [JJJJ-MM-TT] at [HH:MM am|pm] Europe/Berlin              |     
 | Description:      |   | Due to maintenance work the above mentioned services are currently not available. |
-| Affected:         |   | Customers of [NAME]                                                  |
