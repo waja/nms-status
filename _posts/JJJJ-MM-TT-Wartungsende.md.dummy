@@ -9,6 +9,6 @@ fa: "check"
 |                   |   |                                                                      |
 |-------------------|---|----------------------------------------------------------------------|
 | Systems:          |   | [NAME]                                                               |
+| Affected:         |   | Customers of [NAME]                                                  |
 | End:              |   | [JJJJ-MM-TT] at [HH:MM am|pm] Europe/Berlin                                              |
 | Description:      |   | All maintenance work has been completed successfully.                |
-| Affected:         |   | Customers of [NAME]                                                  |
